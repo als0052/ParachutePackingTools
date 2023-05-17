@@ -1,0 +1,41 @@
+LICENSE.txt
+
+***=========================================================================***
+***                   P R O P R I E T A R Y   D E S I G N                   ***
+***                                                                         ***
+***                                ©ALS0052                                 ***
+***                           ALL RIGHTS RESERVED                           ***
+***                               2023 - 3023                               ***
+***=========================================================================***
+
+
+=== SUMMARY ===================================================================
+Applicable to:     ALL FILES CONTAINED IN THIS PACKAGE
+Owner:             ALS0052
+Effective:         MAY 17 2023 - MAY 17 3023
+Filename:          LICENSE.txt
+Last Updated:      MAY 17 2023
+
+(c) Copyright ALS0052. 2023. All rights reserved. 
+
+
+=== . =========================================================================
+This package of models, drawings, and other computer aided engineering digital 
+files (henceforth "Files") is developed for the author's personal needs. The 
+author freely shares these Files free of charge and for non-commercial usage. 
+
+=== RESTRICTIONS ==============================================================
+No entity, whether corporation, individual, company, government, military, 
+etc., may use these Files with any intent other than personal usage. Personal 
+usage shall apply only to a single private individual person. All other 
+entities must recieve written permission from the author before usage. 
+
+No part of these Files may be used for a commercial product or for 
+development of a commercial product without written consent and permission 
+from the author. No entity may sell or otherwise require monetary or material 
+compensation or trade for any of these Files. If you paid for these Files 
+then you got screwed.
+
+Copyright does not in any way imply publication.
+
+// END OF LICENSE.txt ----------------------------------------------------- //
